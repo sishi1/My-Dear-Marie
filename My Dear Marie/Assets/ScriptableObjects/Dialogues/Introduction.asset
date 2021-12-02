@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa5d12ecda08285429646312defb7637, type: 3}
+  m_Name: Introduction
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: aac9fe5b54a309244a3500a1faa6bced, type: 2}
+    line: 'Hello there! My name''s Poro and I''ll be here to help you out! '
+  - character: {fileID: 11400000, guid: aac9fe5b54a309244a3500a1faa6bced, type: 2}
+    line: To start things off, you can move around with either WASD or arrow keys
+      and you can jump by pressing the spacebar.
+  - character: {fileID: 11400000, guid: aac9fe5b54a309244a3500a1faa6bced, type: 2}
+    line: Everything else will be explained soon enough ^^
